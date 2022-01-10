@@ -173,7 +173,7 @@
 			background-color: #fff;
 			top: 0;
 			left: 0;
-
+			transition: 1s all ease;	
 			li {
 				margin-left: 0;
 				.link {
